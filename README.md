@@ -1,15 +1,3 @@
----
-title: Snake-Bot
-emoji: 🐍
-colorFrom: indigo
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: src/app.py
-pinned: false
-license: mit
----
-
 # Snake-Bot 🐍🤖
 
 An AI-controlled Snake game built with Python + Pygame.  
