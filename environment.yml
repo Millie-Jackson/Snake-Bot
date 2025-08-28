@@ -4,8 +4,12 @@ channels:
   - https://repo.anaconda.com/pkgs/r
   - conda-forge
 dependencies:
-  - python
+  - python=3.11
   - pygame
   - numpy
   - matplotlib
+  - pillow
+  - pip
+  - pip:
+      - gradio>=4.44
 prefix: /home/millie/miniconda3/envs/Snake-Bot
